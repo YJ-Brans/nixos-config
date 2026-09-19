@@ -1,0 +1,2 @@
+# Keep Unix line endings even if the repo is edited on Windows (bash breaks on CRLF).
+* text=auto eol=lf
